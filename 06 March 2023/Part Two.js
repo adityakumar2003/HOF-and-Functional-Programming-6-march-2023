@@ -10,7 +10,7 @@ arr.forEach((element, index, arr) => {
 
 const heros = ["naagraj", "doga", "dhruva", "maniraj"]
 
-
+hero = console.log()
 heros.forEach((el) => { console.log(el.toUpperCase())})
 
 arr.map(function(element, index, arr){
@@ -27,6 +27,7 @@ const herosWithRaj = heros.filter((h) => {
 console.log(herosWithRaj);
 
 //shopping cart
+
 
 const cartBill = [20, 30, 50]
 const sumOfCartBill = cartBill.reduce((prev, curr) => prev+curr, 0)
