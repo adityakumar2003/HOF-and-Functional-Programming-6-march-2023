@@ -9,6 +9,8 @@ let regExThree = /pw/gi
 
 const strToCheck = "PW is growing at a rapid speed and recently they are working on Pwskills to create skills based pwcontent"
 
+console.log()
+
 const result = regExThree.test(strToCheck)
 console.log(result);
 
