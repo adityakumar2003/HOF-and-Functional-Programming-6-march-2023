@@ -17,6 +17,16 @@ console.log(result);
 const anotherResult = strToCheck.match(regExThree)
 console.log(anotherResult);
 
+
+// Api work 
+
+nst oneMoreResult = strToCheck.replace(regExThree, 'p-w')
+console.log(oneMoreResult);
+
+
+console.log(second result);
+
+
 const oneMoreResult = strToCheck.replace(regExThree, 'p-w')
 console.log(oneMoreResult);
 
